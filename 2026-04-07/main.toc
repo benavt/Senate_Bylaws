@@ -1,0 +1,14 @@
+\contentsline {section}{Article I: Organization}{2}{section*.1}%
+\contentsline {section}{Article II: Memberships}{2}{section*.2}%
+\contentsline {section}{Article III: Officers}{2}{section*.3}%
+\contentsline {section}{Article IV: Duties of Office}{4}{section*.4}%
+\contentsline {section}{Article V: Meetings}{5}{section*.5}%
+\contentsline {section}{Article VI: Legislation}{6}{section*.6}%
+\contentsline {section}{Article VII: Rules for Voting and Debate}{7}{section*.7}%
+\contentsline {section}{Article VIII: Removals}{9}{section*.8}%
+\contentsline {section}{Article IX: Committees}{9}{section*.9}%
+\contentsline {section}{Article X: Petitions}{15}{section*.10}%
+\contentsline {section}{Article XI: Appointments}{16}{section*.11}%
+\contentsline {section}{Article XII: Amendments}{16}{section*.12}%
+\contentsline {section}{Article XIII: Succession}{17}{section*.13}%
+\contentsline {section}{Article XIV: Inquiries}{17}{section*.14}%
